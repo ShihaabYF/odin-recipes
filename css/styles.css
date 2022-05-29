@@ -53,3 +53,8 @@ h1 {
     text-align: center;
     font-family: serif;
 }
+
+p {
+    font-family: Arial, serif,Helvetica, sans-serif;
+    width: 700px;
+}
