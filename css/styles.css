@@ -48,6 +48,8 @@ h3 {
     background-color: aliceblue;
     width: 700px;
     font-family: serif, Arial, Helvetica, sans-serif;
+    padding: 2px;
+    margin-bottom: 2px;
 }
 
 h1 {
